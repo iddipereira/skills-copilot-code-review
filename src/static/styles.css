@@ -695,13 +695,6 @@ footer {
   to   { opacity: 1; transform: translateY(0); }
 }
 
-/* Header actions row */
-#header-actions {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-}
-
 /* Announcements management modal */
 .announcements-modal-content {
   max-width: 560px;
